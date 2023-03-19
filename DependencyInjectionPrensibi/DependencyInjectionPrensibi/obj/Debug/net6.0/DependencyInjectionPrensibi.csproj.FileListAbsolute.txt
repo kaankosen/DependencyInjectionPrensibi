@@ -1,0 +1,15 @@
+C:\Users\kaank\OneDrive\Masaüstü\DependencyInjectionPrensibi\DependencyInjectionPrensibi\obj\Debug\net6.0\DependencyInjectionPrensibi.csproj.AssemblyReference.cache
+C:\Users\kaank\OneDrive\Masaüstü\DependencyInjectionPrensibi\DependencyInjectionPrensibi\obj\Debug\net6.0\DependencyInjectionPrensibi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaank\OneDrive\Masaüstü\DependencyInjectionPrensibi\DependencyInjectionPrensibi\obj\Debug\net6.0\DependencyInjectionPrensibi.AssemblyInfoInputs.cache
+C:\Users\kaank\OneDrive\Masaüstü\DependencyInjectionPrensibi\DependencyInjectionPrensibi\obj\Debug\net6.0\DependencyInjectionPrensibi.AssemblyInfo.cs
+C:\Users\kaank\OneDrive\Masaüstü\DependencyInjectionPrensibi\DependencyInjectionPrensibi\obj\Debug\net6.0\DependencyInjectionPrensibi.csproj.CoreCompileInputs.cache
+C:\Users\kaank\OneDrive\Masaüstü\DependencyInjectionPrensibi\DependencyInjectionPrensibi\bin\Debug\net6.0\DependencyInjectionPrensibi.exe
+C:\Users\kaank\OneDrive\Masaüstü\DependencyInjectionPrensibi\DependencyInjectionPrensibi\bin\Debug\net6.0\DependencyInjectionPrensibi.deps.json
+C:\Users\kaank\OneDrive\Masaüstü\DependencyInjectionPrensibi\DependencyInjectionPrensibi\bin\Debug\net6.0\DependencyInjectionPrensibi.runtimeconfig.json
+C:\Users\kaank\OneDrive\Masaüstü\DependencyInjectionPrensibi\DependencyInjectionPrensibi\bin\Debug\net6.0\DependencyInjectionPrensibi.dll
+C:\Users\kaank\OneDrive\Masaüstü\DependencyInjectionPrensibi\DependencyInjectionPrensibi\bin\Debug\net6.0\DependencyInjectionPrensibi.pdb
+C:\Users\kaank\OneDrive\Masaüstü\DependencyInjectionPrensibi\DependencyInjectionPrensibi\obj\Debug\net6.0\DependencyInjectionPrensibi.dll
+C:\Users\kaank\OneDrive\Masaüstü\DependencyInjectionPrensibi\DependencyInjectionPrensibi\obj\Debug\net6.0\refint\DependencyInjectionPrensibi.dll
+C:\Users\kaank\OneDrive\Masaüstü\DependencyInjectionPrensibi\DependencyInjectionPrensibi\obj\Debug\net6.0\DependencyInjectionPrensibi.pdb
+C:\Users\kaank\OneDrive\Masaüstü\DependencyInjectionPrensibi\DependencyInjectionPrensibi\obj\Debug\net6.0\DependencyInjectionPrensibi.genruntimeconfig.cache
+C:\Users\kaank\OneDrive\Masaüstü\DependencyInjectionPrensibi\DependencyInjectionPrensibi\obj\Debug\net6.0\ref\DependencyInjectionPrensibi.dll
